@@ -1,3 +1,11 @@
+## S3 Website
+
+http://my-new-rs-web-app.s3-website-eu-west-1.amazonaws.com/
+
+## CloudFront Website
+
+https://d3mmn43eleq4v9.cloudfront.net/
+
 # Shop Angular Cloudfront
 
 Angular version: ~17.
